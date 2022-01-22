@@ -1,0 +1,15 @@
+{
+  "general":{
+    "title": "YetiKeebs by @Ironkovacs",
+    "description": "Modular DIY mechanical keyboard kits"
+  },
+  "common":{
+    "confirm": "confirm"
+  },  
+  "nav-bar": {
+    "home": "kiscica",
+    "layout-editor" : "layout-editor",
+    "shop": "shop",
+    "about": "about"
+  }
+}

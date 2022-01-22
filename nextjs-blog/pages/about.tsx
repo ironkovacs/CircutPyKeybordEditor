@@ -1,0 +1,1 @@
+import Layout, { siteTitle } from '../components/layout'

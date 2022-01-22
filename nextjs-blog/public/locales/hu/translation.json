@@ -1,0 +1,15 @@
+{
+  "general":{
+    "title": "YetiKeebs elkövetője: @Ironkovacs",
+    "description": "Moduláris, személyre szabható mechanikus billentyűzet csináld-magad készletek"
+  },
+  "common":{
+    "confirm": "elfogadom"
+  },  
+  "nav-bar": {
+    "home": "Főoldal",
+    "layout-editor" : "kiosztás szerkesztő",
+    "shop": "bolt",
+    "about": "rólam"
+  }
+}
